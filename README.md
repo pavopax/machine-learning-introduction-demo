@@ -1,6 +1,6 @@
 
 
-<a href="(http://mybinder.org:/repo/pavopax/machine-learning-introduction-demo" target="_blank">![Binder](http://mybinder.org/badge.svg)</a>
+<a href="http://mybinder.org:/repo/pavopax/machine-learning-introduction-demo" target="_blank">![Binder](http://mybinder.org/badge.svg)</a>
 
 
 # Instructions
