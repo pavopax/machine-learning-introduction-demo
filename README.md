@@ -5,6 +5,9 @@
 
 # Instructions
 
+For an interactive experience:
 1. Click the "Launch Binder" button (which will then load an
 interactive environment)
 2. Click on the file "machine-learning-introduction-demo.ipynb"
+
+For a static version, just click on `machine-learning-introduction-demo.ipynb` above, and you should see a preview of the notebook.
